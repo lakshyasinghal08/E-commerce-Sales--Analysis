@@ -82,4 +82,12 @@ Created graphs such as:
 
 ---
 
-## 📁 Project Structure
+## ✅ These things will do to increase the profit based on the data
+“If we increase Camera stock and promotions, overall profit will increase because Camera is the highest profit product.”
+
+“If we expand in the West region, total profit will increase because West contributes the maximum profit.”
+
+“If we boost Electronics inventory and marketing, overall sales will increase since Electronics is the top-selling category.”
+
+“If we run offers in February, sales and profit will recover because February shows the biggest drop.”
+
